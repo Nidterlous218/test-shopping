@@ -1,3 +1,7 @@
+### WARNING !!!!!!!
+
+This isn't a completely perfect online shopping. Just included checkoutform, checkout details, payment method and other basic components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
